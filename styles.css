@@ -9,3 +9,33 @@
   color: #1f2937;
   line-height: 1.6;
 }
+
+/* ヘッダー */
+.site-header {
+  background: #ffffff;
+  padding: 24px 16px 16px;
+  text-align: center;
+}
+
+/* ナビ */
+.main-nav {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+.nav-link {
+  display: inline-block;
+  padding: 6px 12px;
+  background: #dddd;
+  border-radius: 99px;
+  color: #2563eb;
+  font-size: 14px;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.nav-link:hover {
+  background: #2563eb;
+  color: #ffffff;
+}
