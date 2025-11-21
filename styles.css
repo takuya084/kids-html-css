@@ -94,3 +94,11 @@
   background: #e2e8f0;
   flex-shrink: 0;
 }
+
+/* フッター */
+.site-footer {
+  text-align: center;
+  padding: 24px 16px 40px;
+  font-size: 12px;
+  color: #6b7280;
+}
