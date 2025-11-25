@@ -1,0 +1,9 @@
+STEP9レスポンスに対応（CSS）
+STEP8footerデザイン（CSS）
+STEP7好きなものデザイン（CSS）
+STEP6自己紹介デザイン（CSS）
+STEP5ヘッダーとナビデザイン（CSS）
+STEP4背景の色と文字の色（CSS）
+STEP3リンクを貼る（HTML）
+STEP2頭体足の中身（HTML）
+STEP1頭と身体の基本構造（HTML）
